@@ -100,9 +100,14 @@ h3 {
    color: red;
 }
 
+
 .home-image {
-   max-width: 100%;
-   height: auto;
+   max-height: 525px;
+   width: auto;
+   display: flex;
+   justify-content: space-around;
+}
+
 }
 .btn_rectangle {
    height: auto;
