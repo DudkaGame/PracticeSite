@@ -106,6 +106,8 @@ h3 {
    width: auto;
    display: flex;
    justify-content: space-around;
+   position: relative;
+   left: 4vw;
 }
 
 }
@@ -162,6 +164,10 @@ h3 {
 
    .home-image {
       overflow: visible;
+      display: flex;
+      width: 80vw;
+      position: relative;
+      left: -0.3vw;
    }
 }
 
