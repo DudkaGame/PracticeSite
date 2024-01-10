@@ -110,7 +110,7 @@ h3 {
    display: flex;
    justify-content: space-around;
    position: relative;
-   left: 4vw;
+   left: 2vw;
 }
 
 }
@@ -168,7 +168,8 @@ h3 {
    .home-image {
       overflow: visible;
       display: flex;
-      width: 80vw;
+      max-width: 80vw;
+      high: auto;
       position: relative;
       left: -0.3vw;
    }
@@ -326,7 +327,7 @@ h3 {
 
 .nav-ul {
    position: relative;
-   left: 25vw;
+   left: 27vw;
 }
 
 @media (max-width: 1000px) {
