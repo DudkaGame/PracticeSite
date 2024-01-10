@@ -168,10 +168,11 @@ h3 {
    .home-image {
       overflow: visible;
       display: flex;
+      justify-content: center;
       max-width: 80vw;
       high: auto;
       position: relative;
-      left: -0.3vw;
+      left: 0;
    }
 }
 
@@ -439,7 +440,7 @@ h3 {
    }
 
    .home-image {
+      justify-content:center
       position: relative;
-      left: -10px;
    }
 }
